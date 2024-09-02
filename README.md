@@ -14,4 +14,4 @@ Meu nome è Brenda Cristina
   
 - brendaa_zz0
 
- !{}(https://media1.tenor.com/m/ttFRhdNIsBYAAAAd/luciano-chutando.gif)
+ ![](https://media1.tenor.com/m/ttFRhdNIsBYAAAAd/luciano-chutando.gif)
